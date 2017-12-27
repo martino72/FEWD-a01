@@ -2,7 +2,7 @@
 FEWD assignment 1
 
 ##Introducction
-Hi! I'm Martin A guy with lots of interest in Computers. And I'm taking FEWD2 so far everything is going well, I hope to learn many new things this year, I hope someday i will become a web developer
+Hi! I'm Martino A guy with lots of interest in Computers. And I'm taking FEWD2 so far everything is going well, I hope to learn many new things this year, I hope someday i will become a web developer
 
 I have a family I'm also proud Dad and dedicated Husband, and I have 2 dogs that I like to walk with them and I also like to drink coffee
 
